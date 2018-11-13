@@ -3,5 +3,8 @@ body {
     padding-top:54px;
    }
 
+.container {
+    padding: 30px 30px 20px 40px;
+}
 #opleiding {
 }
